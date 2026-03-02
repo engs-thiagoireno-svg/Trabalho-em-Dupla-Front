@@ -22,3 +22,8 @@ button:hover {
     color: purple;
 
 }
+
+p::first-letter {
+
+    font-size: 200%;
+}
