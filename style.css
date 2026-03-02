@@ -8,7 +8,8 @@ h1 {
 .destaque {
     background-color: yellow;
 }
-#item2 {
+
+   li:nth-child(2) {
     color: red;
 }
 input[type="password"] {
@@ -18,9 +19,8 @@ button:hover {
     background-color: lightgreen;
 }
 
-.container > div:first-of-type >p {
-    color: purple;
-
+.container > div:first-of-type > p {
+    color: rgb(0, 204, 255);
 }
 
 p::first-letter {
