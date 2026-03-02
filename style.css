@@ -14,3 +14,6 @@ h1 {
 input[type="password"] {
     border: 2px solid blue;
 }
+button:hover {
+    background-color: lightgreen;
+}
