@@ -11,3 +11,6 @@ h1 {
 #item 2 {
     color: red;
 }
+input[type="password"] {
+    border: 2px solid blue;
+}
