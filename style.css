@@ -17,3 +17,8 @@ input[type="password"] {
 button:hover {
     background-color: lightgreen;
 }
+
+.container > div:first-of-type >p {
+    color: purple;
+
+}
